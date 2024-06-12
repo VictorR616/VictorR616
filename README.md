@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en **mi portafolio**
 
-- 🌱 Actualmente estoy aprendiendo **React Js**
+- 🌱 Actualmente estoy aprendiendo **Sistemas distribuidos con Java**
 
 - 💬 Preguntame sobre **Python, Django**
 
